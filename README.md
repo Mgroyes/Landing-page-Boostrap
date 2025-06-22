@@ -70,10 +70,11 @@ Esta guía te ayudará a ejecutar el proyecto localmente y a desplegarlo en GitH
 
 A continuación se describe la organización de carpetas y archivos principales del proyecto:
 
+```
 src/
 ├── app/
 │   ├── components/       # Componentes personalizados
-│   └── app.component.ts     # Módulo raíz
+│   └── app.module.ts     # Módulo raíz
 ├── assets/
 │   ├── screenshots/      # Capturas de pantalla del proyecto
 │   └── img/              # Imágenes generales
@@ -81,6 +82,7 @@ src/
 ├── index.html
 ├── styles.scss
 └── main.ts
+```
 
 - Todos los componentes personalizados deben ir dentro de `src/app/components/` para mantener una estructura limpia.
 - Las imágenes del sitio deben guardarse en `assets/img/`, mientras que `assets/screenshots/` se reserva para imágenes del README.
