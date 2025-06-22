@@ -1,27 +1,97 @@
-# MiLandingBootstrap
+# 🌐 Landing Page Angular + Bootstrap
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+Una **landing page** desarrollada con **Angular**, diseñada con componentes de **Bootstrap 5** y decorada con **Bootstrap Icons**. Este proyecto fue creado con fines **prácticos y educativos**, con énfasis en una estructura modular, diseño responsivo y buenas prácticas de desarrollo front-end.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Tecnologías utilizadas
 
-## Code scaffolding
+- [Angular CLI](https://angular.io/)
+- [Bootstrap 5](https://getbootstrap.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- HTML5 & SCSS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 📸 Capturas de pantalla
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Header-Hero:
+![View 1](./src/assets/screenshots/view1.png)
 
-## Running unit tests
+Cards:
+![View 2](./src/assets/screenshots/view2.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Features:
+![View 3](./src/assets/screenshots/view3.png)
 
-## Running end-to-end tests
+Testimonials-Contact:
+![View 4](./src/assets/screenshots/view4.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Footer:
+![View 5](./src/assets/screenshots/view5.png)
 
-## Further help
+## 📱 Vistas móviles
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Menu-Header:
+![View 6](./src/assets/screenshots/view6.png)
+
+Hero:
+![View 7](./src/assets/screenshots/view7.png)
+
+Cards:
+![View 8](./src/assets/screenshots/view8.png)
+
+Features:
+![View 9](./src/assets/screenshots/view9.png)
+
+Testimonials:
+![View 10](./src/assets/screenshots/view10.png)
+
+Contact-Footer:
+![View 11](./src/assets/screenshots/view11.png)
+
+---
+
+# 🛠️ Guía de instalación y despliegue
+
+Esta guía te ayudará a ejecutar el proyecto localmente y a desplegarlo en GitHub Pages.
+
+---
+
+## 🧩 Requisitos previos
+
+- Node.js instalado (versión recomendada LTS)
+- Angular CLI instalado globalmente:
+
+---
+
+# 📁 Estructura del proyecto
+
+A continuación se describe la organización de carpetas y archivos principales del proyecto:
+
+src/
+├── app/
+│   ├── components/       # Componentes personalizados
+│   └── app.module.ts     # Módulo raíz
+├── assets/
+│   ├── screenshots/      # Capturas de pantalla del proyecto
+│   └── img/              # Imágenes generales
+├── environments/
+├── index.html
+├── styles.scss
+└── main.ts
+
+- Todos los componentes personalizados deben ir dentro de `src/app/components/` para mantener una estructura limpia.
+- Las imágenes del sitio deben guardarse en `assets/img/`, mientras que `assets/screenshots/` se reserva para imágenes del README.
+- La carpeta `environments/` contiene configuraciones de entorno que puedes usar para definir variables dependiendo si estás en desarrollo o producción.
+
+---
+
+✅ **Consejo**: Mantén esta estructura organizada a medida que tu proyecto crece. Puedes añadir carpetas como `services/`, `guards/`, `models/` dentro de `app/` si el proyecto se vuelve más complejo.
+
+
+
+
+
+
