@@ -17,39 +17,39 @@ Una **landing page** desarrollada con **Angular**, diseñada con componentes de 
 ## 📸 Capturas de pantalla
 
 Header-Hero:
-![View 1](./src/assets/screenshots/view1.png)
+![View 1](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view1.png)
 
 Cards:
-![View 2](./src/assets/screenshots/view2.png)
+![View 2](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view2.png)
 
 Features:
-![View 3](./src/assets/screenshots/view3.png)
+![View 3](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view3.png)
 
 Testimonials-Contact:
-![View 4](./src/assets/screenshots/view4.png)
+![View 4](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view4.png)
 
 Footer:
-![View 5](./src/assets/screenshots/view5.png)
+![View 5](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view5.png)
 
 ## 📱 Vistas móviles
 
 Menu-Header:
-![View 6](./src/assets/screenshots/view6.png)
+![View 6](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view6.png)
 
 Hero:
-![View 7](./src/assets/screenshots/view7.png)
+![View 7](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view7.png)
 
 Cards:
-![View 8](./src/assets/screenshots/view8.png)
+![View 8](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view8.png)
 
 Features:
-![View 9](./src/assets/screenshots/view9.png)
+![View 9](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view9.png)
 
 Testimonials:
-![View 10](./src/assets/screenshots/view10.png)
+![View 10](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view10.png)
 
 Contact-Footer:
-![View 11](./src/assets/screenshots/view11.png)
+![View 11](https://raw.githubusercontent.com/Mgroyes/Landing-page-Boostrap/master/src/assets/img/view11.png)
 
 ---
 
