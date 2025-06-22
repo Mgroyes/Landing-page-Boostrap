@@ -78,7 +78,6 @@ src/
 ├── assets/
 │   ├── screenshots/      # Capturas de pantalla del proyecto
 │   └── img/              # Imágenes generales
-├── environments/
 ├── index.html
 ├── styles.scss
 └── main.ts
