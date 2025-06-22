@@ -62,8 +62,8 @@ Esta guía te ayudará a ejecutar el proyecto localmente y a desplegarlo en GitH
 ## 🧩 Requisitos previos
 
 - Node.js instalado (versión recomendada LTS)
-- Angular CLI instalado globalmente:
-
+- Angular CLI instalado globalmente
+- ng serve abre servisor local http://localhost:4200/
 ---
 
 # 📁 Estructura del proyecto
@@ -74,7 +74,7 @@ A continuación se describe la organización de carpetas y archivos principales 
 src/
 ├── app/
 │   ├── components/       # Componentes personalizados
-│   └── app.module.ts     # Módulo raíz
+│   └── app.coomponent.ts     # componente raíz
 ├── assets/
 │   ├── screenshots/      # Capturas de pantalla del proyecto
 │   └── img/              # Imágenes generales
