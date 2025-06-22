@@ -73,7 +73,7 @@ A continuación se describe la organización de carpetas y archivos principales 
 src/
 ├── app/
 │   ├── components/       # Componentes personalizados
-│   └── app.module.ts     # Módulo raíz
+│   └── app.component.ts     # Módulo raíz
 ├── assets/
 │   ├── screenshots/      # Capturas de pantalla del proyecto
 │   └── img/              # Imágenes generales
@@ -84,7 +84,6 @@ src/
 
 - Todos los componentes personalizados deben ir dentro de `src/app/components/` para mantener una estructura limpia.
 - Las imágenes del sitio deben guardarse en `assets/img/`, mientras que `assets/screenshots/` se reserva para imágenes del README.
-- La carpeta `environments/` contiene configuraciones de entorno que puedes usar para definir variables dependiendo si estás en desarrollo o producción.
 
 ---
 
