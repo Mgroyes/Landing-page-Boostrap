@@ -1,0 +1,22 @@
+.row {
+  background-color: #f8f9fa;
+
+  h1 {
+    color: #0d6efd;
+  }
+
+  .lead {
+    color: #6c757d;
+  }
+
+  img {
+    max-height: 320px;
+    object-fit: contain;
+  }
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 {
+    border-radius: 0.3rem;
+  }
+}
