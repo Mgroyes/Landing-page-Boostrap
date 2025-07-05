@@ -12,6 +12,16 @@
   img {
     max-height: 320px;
     object-fit: contain;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .d-grid {
+    justify-content: center;
+
+    @media (min-width: 992px) {
+      justify-content: flex-start;
+    }
   }
 }
 
